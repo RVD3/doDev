@@ -4990,10 +4990,10 @@ ul.pagination li {
 .panel {
   border-style: solid;
   border-width: 1px;
-  border-color: #d8d8d8;
+  border-color: #ff9c37;
   margin-bottom: 1.25rem;
   padding: 1.25rem;
-  background: #f2f2f2;
+  background: #ffaf5e;
 }
 /* line 52, ../bower_components/foundation/scss/foundation/components/_panels.scss */
 .panel > :first-child {
@@ -7136,7 +7136,7 @@ meta.foundation-mq-topbar {
 /* line 332, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .top-bar-section ul li:hover:not(.has-form) > a {
   background-color: #555555;
-  background: #ff944d;
+  background: #272727;
   color: white;
 }
 /* line 342, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
@@ -7326,7 +7326,7 @@ meta.foundation-mq-topbar {
   /* line 478, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar-section li.hover > a:not(.button) {
     background-color: #555555;
-    background: #ff944d;
+    background: #272727;
     color: white;
   }
   /* line 487, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
@@ -7338,7 +7338,7 @@ meta.foundation-mq-topbar {
   /* line 491, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar-section li:not(.has-form) a:not(.button):hover {
     background-color: #555555;
-    background: #ff944d;
+    background: #272727;
   }
   /* line 500, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar-section li.active:not(.has-form) a:not(.button) {
@@ -7424,7 +7424,7 @@ meta.foundation-mq-topbar {
   .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button) {
     color: white;
     background-color: #555555;
-    background: #ff944d;
+    background: #272727;
   }
   /* line 582, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar-section .dropdown li label {
@@ -7473,7 +7473,7 @@ meta.foundation-mq-topbar {
   /* line 635, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .no-js .top-bar-section ul li:hover > a {
     background-color: #555555;
-    background: #ff944d;
+    background: #272727;
     color: white;
   }
   /* line 644, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */

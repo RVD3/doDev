@@ -834,8 +834,8 @@ $magellan-padding: 0 !important;
 // $include-html-panel-classes: $include-html-classes;
 
 // We use these to control the background and border styles
-$panel-bg: scale-color(#fff, $lightness: -5%);
-// $panel-border-style: solid;
+$panel-bg: scale-color(#FFB870, $lightness: -5%);
+// $panel-border-style: none;
 // $panel-border-size: .5px;
 
 // We use this % to control how much we darken things on hover
@@ -1239,7 +1239,7 @@ $topbar-link-color-hover: #fff;
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
 // $topbar-link-bg-color-hover: #555555;
-$topbar-link-bg-hover: #FF944D;
+// $topbar-link-bg-hover: #FF944D;
 // $topbar-link-bg-active: $primary-color;
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
 // $topbar-link-font-family: $body-font-family;
